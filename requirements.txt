@@ -35,7 +35,7 @@ scipy==1.6.2
 six==1.15.0
 tensorboard==2.4.1
 tensorboard-plugin-wit==1.8.0
-tensorflow-cpu==2.4.1
+https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow_cpu-2.5.0-cp36-cp36m-manylinux2010_x86_64.whl
 tensorflow-estimator==2.4.0
 termcolor==1.1.0
 typing-extensions==3.7.4.3
